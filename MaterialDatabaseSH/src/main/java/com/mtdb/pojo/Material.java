@@ -1,5 +1,6 @@
 package com.mtdb.pojo;
 
+//Shankar Patwardhan
 public class Material {
 	private static final long serialVersionUID = 1L;
 	private String name;
